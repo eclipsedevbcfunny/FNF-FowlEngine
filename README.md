@@ -1,6 +1,18 @@
-# Friday Night Funkin
+# Friday Night Funkin: FowlEngine
 
-This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
+Friday Night Funkin: FowlEngine (short for FowluhhDev Engine) is a FNF Engine made to make the game better but by using the old source code and building it up to the current game's state again!
 
-Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
-Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
+### To-do
+
+- [X] make the basis of the engine
+- [ ] make options menu
+- implement full game
+  - [X] Tutorial
+  - [X] Week 1
+  - [X] Week 2
+  - [X] Week 3
+  - [X] Week 4
+  - [X] Week 5
+  - [ ] Week 6
+  - [ ] Week 7
+- [ ] make it easily moddable
